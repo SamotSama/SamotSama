@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Frontend Dev in process.
-- 🎓 &nbsp; Studying Full Stack Coding Bootcamp at NUCBA.
+- 🎓 &nbsp; Studying Full Stack Coding Bootcamp at NUCBA & Associate Degree in Programming in TECLAB.
 - 💼 &nbsp; Working as a Problem Solver at Mercado Libre Argentina.
 - 🌱 &nbsp; Learning Japanese as a hobbie/passion.
 
