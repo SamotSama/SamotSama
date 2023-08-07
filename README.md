@@ -30,6 +30,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-333333?style=flat&logo=WordPress&logoColor=white)
 
 <br/>
 
