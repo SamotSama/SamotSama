@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Frontend Dev in process.
+- 🤔 &nbsp; Frontend Dev in process, currently learning React.
 - 🎓 &nbsp; Studying Associate Degree in Programming in TECLAB.
-- 💼 &nbsp; Working as a Problem Solver at Mercado Libre Argentina.
+- 💼 &nbsp; Working as a Analyst at Mercado Libre Argentina.
 - 🌱 &nbsp; Learning Japanese as a hobbie/passion.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -13,10 +13,13 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=Node.js&logoColor=white)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -26,6 +29,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai&logoColor=white)
 
 <br/>
 
