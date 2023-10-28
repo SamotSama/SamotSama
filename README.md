@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Frontend Dev in process, currently learning React and .NET.
 - 🎓 &nbsp; Studying Associate Degree in Programming in TECLAB.
-- 💼 &nbsp; Working as a Web Developer at GAOTek Inc.
+- 💼 &nbsp; Working as a Web Developer at GAOTek Inc & Front-End Developer at No Country.
 - 🌱 &nbsp; Learning Japanese as a hobbie/passion.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
