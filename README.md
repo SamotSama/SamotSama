@@ -16,16 +16,18 @@
 
 - 📚 &nbsp; 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+  ![Next.JS](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css)
-  ![Next.JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/Typescript-333333?style=flat&logo=Typescript)
   ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)
   ![WordPress](https://img.shields.io/badge/WordPress-333333?style=flat&logo=WordPress&logoColor=38bdf8)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   
 - 💾 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgres](https://img.shields.io/badge/Postgres-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -36,6 +38,7 @@
 - 💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-333333?style=flat&logo=sublime-text)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=673ab7)
   
 - 🎨  &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
