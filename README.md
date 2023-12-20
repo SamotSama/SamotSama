@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Frontend Dev in process, currently learning React and .NET.
-- 🎓 &nbsp; Studying Associate Degree in Programming in TECLAB.
+- 🤔 &nbsp; Frontend Dev in process, currently learning React.
+- 🎓 &nbsp; Associate Degree in Programming in TECLAB.
 - 💼 &nbsp; Working as a Web Developer at GAOTek Inc & Front-End Developer at No Country.
 - 🌱 &nbsp; Learning Japanese as a hobbie/passion.
 
