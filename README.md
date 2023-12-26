@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Frontend Dev in process, currently learning React.
-- 🎓 &nbsp; Associate Degree in Programming in TECLAB.
-- 💼 &nbsp; Working as a Front-End Developer at No Country.
+- 🤔 &nbsp; Frontend Dev, currently learning React.
+- 🎓 &nbsp; Associate Degree Graduate in Programming @ TECLAB.
+- 💼 &nbsp; Working as a Front-End Developer @ No Country.
 - 🌱 &nbsp; Learning Japanese as a hobbie/passion.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
