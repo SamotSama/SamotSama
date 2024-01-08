@@ -54,8 +54,8 @@
 <br/>
 
 <a href="https://github.com/SamotSama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamotSama&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamotSama&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamotSama&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamotSama&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
