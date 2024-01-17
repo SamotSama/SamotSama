@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Frontend Dev, currently learning React.
 - 🎓 &nbsp; Associate Degree Graduate in Programming @ TECLAB.
-- 💼 &nbsp; Working as a Front-End Developer @ No Country and  @mobeus-technology .
+- 💼 &nbsp; Working as a Front-End Developer @ No Country and  <a href="https://mobeus.com.ar/">Mobeus</a>
 - 🌱 &nbsp; Learning Japanese as a hobbie/passion.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
