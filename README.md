@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Frontend Dev, currently focused on Next.js.
+- 🤓 &nbsp; Frontend Dev, currently focused on Next.js.
 - 🎓 &nbsp; Associate Degree Graduate in Programming @ <a href="https://www.teclab.edu.ar/carrera/tecnico-superior-en-programacion/">  Teclab Intituto Técnico Superior</a>
-- 💼 &nbsp; Working as a Front-End Developer @ <a href="https://www.nocountry.tech/">No Country</a> and <a href="https://mobeus.com.ar/">Mobeus</a>
-- 🌱 &nbsp; Learning Japanese as a hobbie/passion.
+- 💼 &nbsp; Working as a Front-End @ <a href="https://www.nocountry.tech/">No Country</a> and as a Full-Stack @ <a href="https://mobeus.com.ar/">Mobeus</a>
+- 🌱 &nbsp; Learning Japanese as a hobbie/passion, watching anime and movies on the free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,7 +28,6 @@
   ![Postgres](https://img.shields.io/badge/Postgres-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
   ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
-  ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
   ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=Express)
   ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)
   
@@ -38,6 +37,7 @@
   ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=netlify&logoColor=#00C7B7)
   ![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-333333?style=flat&logo=render&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=Docker)
   
 - 💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
