@@ -67,9 +67,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/h-alejandro-rosa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro%20Rosa-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
-<a href="https://www.instagram.com/SamotSama/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SamotSama_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:halejandrorosa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-halejandrorosa@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://samotsama-dev.vercel.app"><img src="https://img.shields.io/badge/-SamotSama%20Dev-ff0026?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/h-alejandro-rosa"><img src="https://img.shields.io/badge/-Alejandro%20Rosa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:halejandrorosa@gmail.com"><img src="https://img.shields.io/badge/-halejandrorosa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
