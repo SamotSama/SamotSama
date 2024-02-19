@@ -58,8 +58,8 @@
 <br/>
 
 <a href="https://github.com/SamotSama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamotSama&theme=dracula&show_icons=true&rank_icon=github&card_width=500" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamotSama&theme=dracula&layout=compact&card_width=500" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamotSama&theme=dracula&show_icons=true&rank_icon=github&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamotSama&theme=dracula&layout=compact&card_width=350" />
 </a>
 
 <br/>
