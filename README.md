@@ -1,3 +1,5 @@
+<a href="https://ibb.co/0qk7Jpq"><img width="870px" src="https://i.ibb.co/cJPBTKJ/Banner-de-Linked-In-Sencillo-Tecnolog-a.png" alt="Banner-de-Linked-In-Sencillo-Tecnolog-a" border="0"></a>
+
 <h2> Hey there! I'm Alejandro 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
