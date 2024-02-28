@@ -7,7 +7,7 @@
 - 🤓 &nbsp; Frontend Dev, currently focused on Next.js.
 - 🎓 &nbsp; Associate Degree Graduate in Programming @ <a href="https://www.teclab.edu.ar/carrera/tecnico-superior-en-programacion/">  Teclab Intituto Técnico Superior</a>
 - 💼 &nbsp; Working as a Front-End @ <a href="https://www.nocountry.tech/">No Country</a> and as a Full-Stack @ <a href="https://mobeus.com.ar/">Mobeus</a>
-- 🌱 &nbsp; Learning Japanese as a hobbie/passion, watching anime and movies on the free time.
+- 🌱 &nbsp; Learning Japanese since 2016 as a hobbie/passion, watching anime and movies on the free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
